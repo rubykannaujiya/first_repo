@@ -1,0 +1,4 @@
+- Edge Computing integration
+- Rise of multi-cloud environments
+- Serverless computing
+- Increased AI and ML adoption in the cloud

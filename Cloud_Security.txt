@@ -1,0 +1,6 @@
+Cloud security includes practices and tools that help protect cloud-based data and infrastructure.
+Key concepts:
+- Identity and Access Management (IAM)
+- Data Encryption
+- Firewalls and Network Security
+- Compliance and Auditing

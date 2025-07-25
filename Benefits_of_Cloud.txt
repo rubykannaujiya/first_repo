@@ -1,0 +1,5 @@
+- Cost Efficiency
+- Scalability
+- Flexibility
+- Disaster Recovery
+- Automatic Updates

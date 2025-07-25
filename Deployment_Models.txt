@@ -1,0 +1,5 @@
+There are four main deployment models in cloud computing:
+1. Public Cloud
+2. Private Cloud
+3. Hybrid Cloud
+4. Community Cloud

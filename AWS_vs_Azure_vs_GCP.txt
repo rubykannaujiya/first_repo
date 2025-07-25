@@ -1,0 +1,13 @@
+AWS:
+- Launched: 2006
+- Strength: Largest service offering
+
+Azure:
+- Launched: 2010
+- Strength: Integration with Microsoft products
+
+GCP:
+- Launched: 2011
+- Strength: Data analytics and AI
+
+Each has free tiers and is used by major companies.

@@ -1,0 +1,6 @@
+Popular use cases of cloud computing:
+- Web hosting and development
+- Data backup and disaster recovery
+- Big data analytics
+- Machine learning and AI services
+- IoT applications
